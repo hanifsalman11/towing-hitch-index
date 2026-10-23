@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "vehicle_name": "Ford F-150 3.5L EcoBoost V6 Crew Cab 4x4",
+    "slug": "ford-f-150-35l-ecoboost-v6-crew-cab-4x4-towing-payload-hitch-calculator",
+    "title": "Ford F-150 3.5L EcoBoost V6 Crew Cab 4x4 Towing Capacity, Payload & Hitch Sizing Calculator (2026)",
+    "description": "Calculate exact safe camper weight (10,800 lbs), 13% tongue weight (1,404 lbs), payload margin (2,445 lbs), and Weight Distribution Hitch size for the Ford F-150 3.5L EcoBoost V6 Crew Cab 4x4.",
+    "max_tow": 13500,
+    "max_payload": 2445,
+    "date": "2026-10-23"
+  },
+  {
+    "vehicle_name": "Ford F-150 5.0L Coyote V8 SuperCrew 4x4",
+    "slug": "ford-f-150-50l-coyote-v8-supercrew-4x4-towing-payload-hitch-calculator",
+    "title": "Ford F-150 5.0L Coyote V8 SuperCrew 4x4 Towing Capacity, Payload & Hitch Sizing Calculator (2026)",
+    "description": "Calculate exact safe camper weight (10,300 lbs), 13% tongue weight (1,339 lbs), payload margin (2,225 lbs), and Weight Distribution Hitch size for the Ford F-150 5.0L Coyote V8 SuperCrew 4x4.",
+    "max_tow": 12900,
+    "max_payload": 2225,
+    "date": "2026-10-23"
+  },
+  {
+    "vehicle_name": "Chevrolet Silverado 1500 5.3L EcoTec3 V8",
+    "slug": "chevrolet-silverado-1500-53l-ecotec3-v8-towing-payload-hitch-calculator",
+    "title": "Chevrolet Silverado 1500 5.3L EcoTec3 V8 Towing Capacity, Payload & Hitch Sizing Calculator (2026)",
+    "description": "Calculate exact safe camper weight (9,000 lbs), 13% tongue weight (1,170 lbs), payload margin (2,080 lbs), and Weight Distribution Hitch size for the Chevrolet Silverado 1500 5.3L EcoTec3 V8.",
+    "max_tow": 11300,
+    "max_payload": 2080,
+    "date": "2026-10-23"
+  }
+]

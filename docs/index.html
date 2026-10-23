@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TowHitchIndex — Truck & SUV Towing Capacity, Payload & WDH Sizing Calculator (2026)</title>
+  <meta name="description" content="Calculate exact travel trailer tongue weight, remaining cabin payload margin, and Weight Distribution Hitch spring bar ratings for Ford, Chevy, Ram, Toyota, GMC, and Jeep vehicles.">
+  <link rel="canonical" href="https://hanifsalman11.github.io/towing-hitch-index/">
+  <link rel="alternate" type="application/rss+xml" title="TowHitchIndex RSS Feed" href="https://hanifsalman11.github.io/towing-hitch-index/rss.xml">
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-stone-950 text-stone-100 min-h-screen flex flex-col">
+  <header class="border-b border-stone-800 bg-stone-900/80 sticky top-0 z-30 backdrop-blur">
+    <div class="max-w-5xl mx-auto px-4 py-3.5 flex items-center justify-between">
+      <div class="text-lg font-black text-white flex items-center gap-2">
+        <span class="bg-amber-500 text-stone-950 px-2 py-0.5 rounded font-black">TOW</span>HitchIndex
+      </div>
+      <a href="https://www.amazon.com/s?k=Weight%2BDistribution%2BHitch%2BSway%2BControl%2BKit%2B10000%2B12000%2Blb&tag=salmanrevie04-20" target="_blank" rel="nofollow sponsored" class="text-xs sm:text-sm bg-amber-500 hover:bg-amber-400 text-stone-950 font-extrabold px-3.5 py-2 rounded-lg transition">
+        Shop Weight Distribution Hitches on Amazon →
+      </a>
+    </div>
+  </header>
+
+  <main class="max-w-5xl mx-auto px-4 py-12 flex-1 w-full">
+    <div class="text-center max-w-2xl mx-auto mb-10">
+      <h1 class="text-3xl sm:text-5xl font-black text-white tracking-tight">Truck & SUV Towing, Payload & Hitch Sizing Database</h1>
+      <p class="text-stone-400 mt-3 text-base sm:text-lg">Select your truck or SUV below to calculate safe camper weight (80% rule), 13% tongue weight vs. door-jamb payload margin, and required Weight Distribution Hitch spring bar rating.</p>
+      <div class="mt-6">
+        <input id="filterInput" type="text" placeholder="Search truck or SUV (e.g. F-150 EcoBoost, Silverado 1500, Ram 1500, Tacoma, Tahoe, Tundra...)" class="w-full bg-stone-900 border border-stone-700 rounded-xl px-4 py-3.5 text-sm text-white focus:outline-none focus:border-amber-500">
+      </div>
+    </div>
+
+    <div id="vehGrid" class="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
+        <a href="chevrolet-silverado-1500-53l-ecotec3-v8-towing-payload-hitch-calculator.html" class="block bg-stone-900 border border-stone-800 hover:border-amber-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-amber-500 text-stone-950 px-2.5 py-0.5 rounded">Max Tow: 11,300 lbs</span>
+            <span class="text-xs text-stone-400">Payload: 2,080 lbs</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-amber-400 transition">Chevrolet Silverado 1500 5.3L EcoTec3 V8 Towing & Hitch Calculator</h2>
+          <p class="text-xs text-stone-400 mt-2 line-clamp-2">Calculate exact safe camper weight (9,000 lbs), 13% tongue weight (1,170 lbs), payload margin (2,080 lbs), and Weight Distribution Hitch size for the Chevrolet Silverado 1500 5.3L EcoTec3 V8.</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-amber-400">Calculate Tongue Weight & WDH Size →</span>
+        </a>
+        <a href="ford-f-150-50l-coyote-v8-supercrew-4x4-towing-payload-hitch-calculator.html" class="block bg-stone-900 border border-stone-800 hover:border-amber-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-amber-500 text-stone-950 px-2.5 py-0.5 rounded">Max Tow: 12,900 lbs</span>
+            <span class="text-xs text-stone-400">Payload: 2,225 lbs</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-amber-400 transition">Ford F-150 5.0L Coyote V8 SuperCrew 4x4 Towing & Hitch Calculator</h2>
+          <p class="text-xs text-stone-400 mt-2 line-clamp-2">Calculate exact safe camper weight (10,300 lbs), 13% tongue weight (1,339 lbs), payload margin (2,225 lbs), and Weight Distribution Hitch size for the Ford F-150 5.0L Coyote V8 SuperCrew 4x4.</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-amber-400">Calculate Tongue Weight & WDH Size →</span>
+        </a>
+        <a href="ford-f-150-35l-ecoboost-v6-crew-cab-4x4-towing-payload-hitch-calculator.html" class="block bg-stone-900 border border-stone-800 hover:border-amber-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-amber-500 text-stone-950 px-2.5 py-0.5 rounded">Max Tow: 13,500 lbs</span>
+            <span class="text-xs text-stone-400">Payload: 2,445 lbs</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-amber-400 transition">Ford F-150 3.5L EcoBoost V6 Crew Cab 4x4 Towing & Hitch Calculator</h2>
+          <p class="text-xs text-stone-400 mt-2 line-clamp-2">Calculate exact safe camper weight (10,800 lbs), 13% tongue weight (1,404 lbs), payload margin (2,445 lbs), and Weight Distribution Hitch size for the Ford F-150 3.5L EcoBoost V6 Crew Cab 4x4.</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-amber-400">Calculate Tongue Weight & WDH Size →</span>
+        </a></div>
+  </main>
+
+  <footer class="border-t border-stone-800 py-8 text-center text-xs text-stone-500">
+    <p>© 2026 TowHitchIndex. As an Amazon Associate, we earn from qualifying purchases.</p>
+  </footer>
+
+  <script>
+    const filterInput = document.getElementById('filterInput');
+    const cards = Array.from(document.getElementById('vehGrid').children);
+    filterInput.addEventListener('input', (e) => {
+      const q = e.target.value.toLowerCase();
+      cards.forEach(c => {
+        c.style.display = c.textContent.toLowerCase().includes(q) ? 'block' : 'none';
+      });
+    });
+  </script>
+</body>
+</html>
