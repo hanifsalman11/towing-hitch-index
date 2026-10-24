@@ -52,5 +52,32 @@
     "max_tow": 12750,
     "max_payload": 1890,
     "date": "2026-10-24"
+  },
+  {
+    "vehicle_name": "Toyota Tundra 3.4L i-FORCE Twin-Turbo V6",
+    "slug": "toyota-tundra-34l-i-force-twin-turbo-v6-towing-payload-hitch-calculator",
+    "title": "Toyota Tundra 3.4L i-FORCE Twin-Turbo V6 Towing Capacity, Payload & Hitch Sizing Calculator (2026)",
+    "description": "Calculate exact safe camper weight (9,600 lbs), 13% tongue weight (1,248 lbs), payload margin (1,885 lbs), and Weight Distribution Hitch size for the Toyota Tundra 3.4L i-FORCE Twin-Turbo V6.",
+    "max_tow": 12000,
+    "max_payload": 1885,
+    "date": "2026-10-24"
+  },
+  {
+    "vehicle_name": "Toyota Tacoma 2.4L i-FORCE Turbo 4WD",
+    "slug": "toyota-tacoma-24l-i-force-turbo-4wd-towing-payload-hitch-calculator",
+    "title": "Toyota Tacoma 2.4L i-FORCE Turbo 4WD Towing Capacity, Payload & Hitch Sizing Calculator (2026)",
+    "description": "Calculate exact safe camper weight (5,200 lbs), 13% tongue weight (676 lbs), payload margin (1,500 lbs), and Weight Distribution Hitch size for the Toyota Tacoma 2.4L i-FORCE Turbo 4WD.",
+    "max_tow": 6500,
+    "max_payload": 1500,
+    "date": "2026-10-24"
+  },
+  {
+    "vehicle_name": "Toyota 4Runner i-FORCE MAX Hybrid 4WD",
+    "slug": "toyota-4runner-i-force-max-hybrid-4wd-towing-payload-hitch-calculator",
+    "title": "Toyota 4Runner i-FORCE MAX Hybrid 4WD Towing Capacity, Payload & Hitch Sizing Calculator (2026)",
+    "description": "Calculate exact safe camper weight (4,800 lbs), 13% tongue weight (624 lbs), payload margin (1,450 lbs), and Weight Distribution Hitch size for the Toyota 4Runner i-FORCE MAX Hybrid 4WD.",
+    "max_tow": 6000,
+    "max_payload": 1450,
+    "date": "2026-10-24"
   }
 ]
