@@ -106,5 +106,32 @@
     "max_tow": 20000,
     "max_payload": 3689,
     "date": "2026-10-24"
+  },
+  {
+    "vehicle_name": "GMC Sierra 1500 6.2L EcoTec3 V8 AT4",
+    "slug": "gmc-sierra-1500-62l-ecotec3-v8-at4-towing-payload-hitch-calculator",
+    "title": "GMC Sierra 1500 6.2L EcoTec3 V8 AT4 Towing Capacity, Payload & Hitch Sizing Calculator (2026)",
+    "description": "Calculate exact safe camper weight (10,400 lbs), 13% tongue weight (1,352 lbs), payload margin (1,820 lbs), and Weight Distribution Hitch size for the GMC Sierra 1500 6.2L EcoTec3 V8 AT4.",
+    "max_tow": 13000,
+    "max_payload": 1820,
+    "date": "2026-10-24"
+  },
+  {
+    "vehicle_name": "Jeep Grand Cherokee L 3.6L Pentastar V6",
+    "slug": "jeep-grand-cherokee-l-36l-pentastar-v6-towing-payload-hitch-calculator",
+    "title": "Jeep Grand Cherokee L 3.6L Pentastar V6 Towing Capacity, Payload & Hitch Sizing Calculator (2026)",
+    "description": "Calculate exact safe camper weight (5,000 lbs), 13% tongue weight (650 lbs), payload margin (1,380 lbs), and Weight Distribution Hitch size for the Jeep Grand Cherokee L 3.6L Pentastar V6.",
+    "max_tow": 6200,
+    "max_payload": 1380,
+    "date": "2026-10-24"
+  },
+  {
+    "vehicle_name": "Jeep Wrangler Unlimited Rubicon 3.6L V6",
+    "slug": "jeep-wrangler-unlimited-rubicon-36l-v6-towing-payload-hitch-calculator",
+    "title": "Jeep Wrangler Unlimited Rubicon 3.6L V6 Towing Capacity, Payload & Hitch Sizing Calculator (2026)",
+    "description": "Calculate exact safe camper weight (4,000 lbs), 13% tongue weight (520 lbs), payload margin (1,150 lbs), and Weight Distribution Hitch size for the Jeep Wrangler Unlimited Rubicon 3.6L V6.",
+    "max_tow": 5000,
+    "max_payload": 1150,
+    "date": "2026-10-24"
   }
 ]
