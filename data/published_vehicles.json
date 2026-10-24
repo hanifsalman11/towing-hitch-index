@@ -25,5 +25,32 @@
     "max_tow": 11300,
     "max_payload": 2080,
     "date": "2026-10-23"
+  },
+  {
+    "vehicle_name": "Chevrolet Silverado 1500 3.0L Duramax Turbo-Diesel",
+    "slug": "chevrolet-silverado-1500-30l-duramax-turbo-diesel-towing-payload-hitch-calculator",
+    "title": "Chevrolet Silverado 1500 3.0L Duramax Turbo-Diesel Towing Capacity, Payload & Hitch Sizing Calculator (2026)",
+    "description": "Calculate exact safe camper weight (10,600 lbs), 13% tongue weight (1,378 lbs), payload margin (1,970 lbs), and Weight Distribution Hitch size for the Chevrolet Silverado 1500 3.0L Duramax Turbo-Diesel.",
+    "max_tow": 13300,
+    "max_payload": 1970,
+    "date": "2026-10-24"
+  },
+  {
+    "vehicle_name": "Ram 1500 3.0L Hurricane High-Output I6",
+    "slug": "ram-1500-30l-hurricane-high-output-i6-towing-payload-hitch-calculator",
+    "title": "Ram 1500 3.0L Hurricane High-Output I6 Towing Capacity, Payload & Hitch Sizing Calculator (2026)",
+    "description": "Calculate exact safe camper weight (9,200 lbs), 13% tongue weight (1,196 lbs), payload margin (1,980 lbs), and Weight Distribution Hitch size for the Ram 1500 3.0L Hurricane High-Output I6.",
+    "max_tow": 11550,
+    "max_payload": 1980,
+    "date": "2026-10-24"
+  },
+  {
+    "vehicle_name": "Ram 1500 5.7L HEMI V8 eTorque Crew Cab",
+    "slug": "ram-1500-57l-hemi-v8-etorque-crew-cab-towing-payload-hitch-calculator",
+    "title": "Ram 1500 5.7L HEMI V8 eTorque Crew Cab Towing Capacity, Payload & Hitch Sizing Calculator (2026)",
+    "description": "Calculate exact safe camper weight (10,200 lbs), 13% tongue weight (1,326 lbs), payload margin (1,890 lbs), and Weight Distribution Hitch size for the Ram 1500 5.7L HEMI V8 eTorque Crew Cab.",
+    "max_tow": 12750,
+    "max_payload": 1890,
+    "date": "2026-10-24"
   }
 ]
