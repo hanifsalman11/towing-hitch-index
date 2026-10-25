@@ -214,5 +214,32 @@
     "max_tow": 9520,
     "max_payload": 1520,
     "date": "2026-10-25"
+  },
+  {
+    "vehicle_name": "Dodge Durango R/T 5.7L HEMI Tow N Go",
+    "slug": "dodge-durango-rt-57l-hemi-tow-n-go-towing-payload-hitch-calculator",
+    "title": "Dodge Durango R/T 5.7L HEMI Tow N Go Towing Capacity, Payload & Hitch Sizing Calculator (2026)",
+    "description": "Calculate exact safe camper weight (7,000 lbs), 13% tongue weight (910 lbs), payload margin (1,420 lbs), and Weight Distribution Hitch size for the Dodge Durango R/T 5.7L HEMI Tow N Go.",
+    "max_tow": 8700,
+    "max_payload": 1420,
+    "date": "2026-10-25"
+  },
+  {
+    "vehicle_name": "GMC Canyon AT4 2.7L TurboMax",
+    "slug": "gmc-canyon-at4-27l-turbomax-towing-payload-hitch-calculator",
+    "title": "GMC Canyon AT4 2.7L TurboMax Towing Capacity, Payload & Hitch Sizing Calculator (2026)",
+    "description": "Calculate exact safe camper weight (6,200 lbs), 13% tongue weight (806 lbs), payload margin (1,550 lbs), and Weight Distribution Hitch size for the GMC Canyon AT4 2.7L TurboMax.",
+    "max_tow": 7700,
+    "max_payload": 1550,
+    "date": "2026-10-25"
+  },
+  {
+    "vehicle_name": "Ram 2500 6.7L Cummins Turbo Diesel",
+    "slug": "ram-2500-67l-cummins-turbo-diesel-towing-payload-hitch-calculator",
+    "title": "Ram 2500 6.7L Cummins Turbo Diesel Towing Capacity, Payload & Hitch Sizing Calculator (2026)",
+    "description": "Calculate exact safe camper weight (16,000 lbs), 13% tongue weight (2,080 lbs), payload margin (3,140 lbs), and Weight Distribution Hitch size for the Ram 2500 6.7L Cummins Turbo Diesel.",
+    "max_tow": 19990,
+    "max_payload": 3140,
+    "date": "2026-10-25"
   }
 ]
