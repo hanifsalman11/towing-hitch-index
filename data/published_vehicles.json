@@ -160,5 +160,32 @@
     "max_tow": 9300,
     "max_payload": 1750,
     "date": "2026-10-25"
+  },
+  {
+    "vehicle_name": "Ford Ranger 2.7L EcoBoost V6 4x4",
+    "slug": "ford-ranger-27l-ecoboost-v6-4x4-towing-payload-hitch-calculator",
+    "title": "Ford Ranger 2.7L EcoBoost V6 4x4 Towing Capacity, Payload & Hitch Sizing Calculator (2026)",
+    "description": "Calculate exact safe camper weight (6,000 lbs), 13% tongue weight (780 lbs), payload margin (1,711 lbs), and Weight Distribution Hitch size for the Ford Ranger 2.7L EcoBoost V6 4x4.",
+    "max_tow": 7500,
+    "max_payload": 1711,
+    "date": "2026-10-25"
+  },
+  {
+    "vehicle_name": "Chevrolet Colorado Trail Boss 2.7L TurboMax",
+    "slug": "chevrolet-colorado-trail-boss-27l-turbomax-towing-payload-hitch-calculator",
+    "title": "Chevrolet Colorado Trail Boss 2.7L TurboMax Towing Capacity, Payload & Hitch Sizing Calculator (2026)",
+    "description": "Calculate exact safe camper weight (6,200 lbs), 13% tongue weight (806 lbs), payload margin (1,587 lbs), and Weight Distribution Hitch size for the Chevrolet Colorado Trail Boss 2.7L TurboMax.",
+    "max_tow": 7700,
+    "max_payload": 1587,
+    "date": "2026-10-25"
+  },
+  {
+    "vehicle_name": "Nissan Pathfinder Rock Creek 3.5L V6",
+    "slug": "nissan-pathfinder-rock-creek-35l-v6-towing-payload-hitch-calculator",
+    "title": "Nissan Pathfinder Rock Creek 3.5L V6 Towing Capacity, Payload & Hitch Sizing Calculator (2026)",
+    "description": "Calculate exact safe camper weight (4,800 lbs), 13% tongue weight (624 lbs), payload margin (1,350 lbs), and Weight Distribution Hitch size for the Nissan Pathfinder Rock Creek 3.5L V6.",
+    "max_tow": 6000,
+    "max_payload": 1350,
+    "date": "2026-10-25"
   }
 ]
