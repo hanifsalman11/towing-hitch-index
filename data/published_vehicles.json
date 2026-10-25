@@ -187,5 +187,32 @@
     "max_tow": 6000,
     "max_payload": 1350,
     "date": "2026-10-25"
+  },
+  {
+    "vehicle_name": "Honda Pilot TrailSport 3.5L V6 AWD",
+    "slug": "honda-pilot-trailsport-35l-v6-awd-towing-payload-hitch-calculator",
+    "title": "Honda Pilot TrailSport 3.5L V6 AWD Towing Capacity, Payload & Hitch Sizing Calculator (2026)",
+    "description": "Calculate exact safe camper weight (4,000 lbs), 13% tongue weight (520 lbs), payload margin (1,325 lbs), and Weight Distribution Hitch size for the Honda Pilot TrailSport 3.5L V6 AWD.",
+    "max_tow": 5000,
+    "max_payload": 1325,
+    "date": "2026-10-25"
+  },
+  {
+    "vehicle_name": "Subaru Outback Wilderness 2.4L Turbo Boxer",
+    "slug": "subaru-outback-wilderness-24l-turbo-boxer-towing-payload-hitch-calculator",
+    "title": "Subaru Outback Wilderness 2.4L Turbo Boxer Towing Capacity, Payload & Hitch Sizing Calculator (2026)",
+    "description": "Calculate exact safe camper weight (2,800 lbs), 13% tongue weight (364 lbs), payload margin (950 lbs), and Weight Distribution Hitch size for the Subaru Outback Wilderness 2.4L Turbo Boxer.",
+    "max_tow": 3500,
+    "max_payload": 950,
+    "date": "2026-10-25"
+  },
+  {
+    "vehicle_name": "Toyota Sequoia 3.4L i-FORCE MAX Hybrid",
+    "slug": "toyota-sequoia-34l-i-force-max-hybrid-towing-payload-hitch-calculator",
+    "title": "Toyota Sequoia 3.4L i-FORCE MAX Hybrid Towing Capacity, Payload & Hitch Sizing Calculator (2026)",
+    "description": "Calculate exact safe camper weight (7,600 lbs), 13% tongue weight (988 lbs), payload margin (1,520 lbs), and Weight Distribution Hitch size for the Toyota Sequoia 3.4L i-FORCE MAX Hybrid.",
+    "max_tow": 9520,
+    "max_payload": 1520,
+    "date": "2026-10-25"
   }
 ]
