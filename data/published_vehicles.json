@@ -268,5 +268,32 @@
     "max_tow": 4000,
     "max_payload": 1500,
     "date": "2026-10-26"
+  },
+  {
+    "vehicle_name": "By Vin",
+    "slug": "by-vin-towing-payload-hitch-calculator",
+    "title": "By Vin Towing Capacity, Payload & Hitch Sizing Calculator (2026)",
+    "description": "Calculate exact safe camper weight (6,800 lbs), 13% tongue weight (884 lbs), payload margin (1,750 lbs), and Weight Distribution Hitch size for the By Vin.",
+    "max_tow": 8500,
+    "max_payload": 1750,
+    "date": "2026-10-26"
+  },
+  {
+    "vehicle_name": "Chart  Trucks",
+    "slug": "chart-trucks-towing-payload-hitch-calculator",
+    "title": "Chart  Trucks Towing Capacity, Payload & Hitch Sizing Calculator (2026)",
+    "description": "Calculate exact safe camper weight (6,800 lbs), 13% tongue weight (884 lbs), payload margin (1,750 lbs), and Weight Distribution Hitch size for the Chart  Trucks.",
+    "max_tow": 8500,
+    "max_payload": 1750,
+    "date": "2026-10-26"
+  },
+  {
+    "vehicle_name": "Chart  Suvs",
+    "slug": "chart-suvs-towing-payload-hitch-calculator",
+    "title": "Chart  Suvs Towing Capacity, Payload & Hitch Sizing Calculator (2026)",
+    "description": "Calculate exact safe camper weight (6,800 lbs), 13% tongue weight (884 lbs), payload margin (1,750 lbs), and Weight Distribution Hitch size for the Chart  Suvs.",
+    "max_tow": 8500,
+    "max_payload": 1750,
+    "date": "2026-10-26"
   }
 ]

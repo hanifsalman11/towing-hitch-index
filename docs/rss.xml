@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/towing-hitch-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Chart  Suvs Towing Capacity, Payload & Hitch Sizing Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/towing-hitch-index/chart-suvs-towing-payload-hitch-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/towing-hitch-index/chart-suvs-towing-payload-hitch-calculator.html</guid>
+      <description>Calculate exact safe camper weight (6,800 lbs), 13% tongue weight (884 lbs), payload margin (1,750 lbs), and Weight Distribution Hitch size for the Chart  Suvs.</description>
+    </item>
+    <item>
+      <title>Chart  Trucks Towing Capacity, Payload & Hitch Sizing Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/towing-hitch-index/chart-trucks-towing-payload-hitch-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/towing-hitch-index/chart-trucks-towing-payload-hitch-calculator.html</guid>
+      <description>Calculate exact safe camper weight (6,800 lbs), 13% tongue weight (884 lbs), payload margin (1,750 lbs), and Weight Distribution Hitch size for the Chart  Trucks.</description>
+    </item>
+    <item>
+      <title>By Vin Towing Capacity, Payload & Hitch Sizing Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/towing-hitch-index/by-vin-towing-payload-hitch-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/towing-hitch-index/by-vin-towing-payload-hitch-calculator.html</guid>
+      <description>Calculate exact safe camper weight (6,800 lbs), 13% tongue weight (884 lbs), payload margin (1,750 lbs), and Weight Distribution Hitch size for the By Vin.</description>
+    </item>
+    <item>
       <title>Ford Maverick 2.0L EcoBoost AWD 4K Tow Towing Capacity, Payload & Hitch Sizing Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/towing-hitch-index/ford-maverick-20l-ecoboost-awd-4k-tow-towing-payload-hitch-calculator.html</link>
       <guid>https://hanifsalman11.github.io/towing-hitch-index/ford-maverick-20l-ecoboost-awd-4k-tow-towing-payload-hitch-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/towing-hitch-index/chevrolet-silverado-1500-30l-duramax-turbo-diesel-towing-payload-hitch-calculator.html</link>
       <guid>https://hanifsalman11.github.io/towing-hitch-index/chevrolet-silverado-1500-30l-duramax-turbo-diesel-towing-payload-hitch-calculator.html</guid>
       <description>Calculate exact safe camper weight (10,600 lbs), 13% tongue weight (1,378 lbs), payload margin (1,970 lbs), and Weight Distribution Hitch size for the Chevrolet Silverado 1500 3.0L Duramax Turbo-Diesel.</description>
-    </item>
-    <item>
-      <title>Chevrolet Silverado 1500 5.3L EcoTec3 V8 Towing Capacity, Payload & Hitch Sizing Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/towing-hitch-index/chevrolet-silverado-1500-53l-ecotec3-v8-towing-payload-hitch-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/towing-hitch-index/chevrolet-silverado-1500-53l-ecotec3-v8-towing-payload-hitch-calculator.html</guid>
-      <description>Calculate exact safe camper weight (9,000 lbs), 13% tongue weight (1,170 lbs), payload margin (2,080 lbs), and Weight Distribution Hitch size for the Chevrolet Silverado 1500 5.3L EcoTec3 V8.</description>
-    </item>
-    <item>
-      <title>Ford F-150 5.0L Coyote V8 SuperCrew 4x4 Towing Capacity, Payload & Hitch Sizing Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/towing-hitch-index/ford-f-150-50l-coyote-v8-supercrew-4x4-towing-payload-hitch-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/towing-hitch-index/ford-f-150-50l-coyote-v8-supercrew-4x4-towing-payload-hitch-calculator.html</guid>
-      <description>Calculate exact safe camper weight (10,300 lbs), 13% tongue weight (1,339 lbs), payload margin (2,225 lbs), and Weight Distribution Hitch size for the Ford F-150 5.0L Coyote V8 SuperCrew 4x4.</description>
-    </item>
-    <item>
-      <title>Ford F-150 3.5L EcoBoost V6 Crew Cab 4x4 Towing Capacity, Payload & Hitch Sizing Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/towing-hitch-index/ford-f-150-35l-ecoboost-v6-crew-cab-4x4-towing-payload-hitch-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/towing-hitch-index/ford-f-150-35l-ecoboost-v6-crew-cab-4x4-towing-payload-hitch-calculator.html</guid>
-      <description>Calculate exact safe camper weight (10,800 lbs), 13% tongue weight (1,404 lbs), payload margin (2,445 lbs), and Weight Distribution Hitch size for the Ford F-150 3.5L EcoBoost V6 Crew Cab 4x4.</description>
     </item>
   </channel>
 </rss>
