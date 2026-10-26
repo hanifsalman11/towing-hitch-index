@@ -241,5 +241,32 @@
     "max_tow": 19990,
     "max_payload": 3140,
     "date": "2026-10-25"
+  },
+  {
+    "vehicle_name": "Lexus GX 550 Overtrail+ 3.4L Twin-Turbo V6",
+    "slug": "lexus-gx-550-overtrail-34l-twin-turbo-v6-towing-payload-hitch-calculator",
+    "title": "Lexus GX 550 Overtrail+ 3.4L Twin-Turbo V6 Towing Capacity, Payload & Hitch Sizing Calculator (2026)",
+    "description": "Calculate exact safe camper weight (7,300 lbs), 13% tongue weight (949 lbs), payload margin (1,480 lbs), and Weight Distribution Hitch size for the Lexus GX 550 Overtrail+ 3.4L Twin-Turbo V6.",
+    "max_tow": 9096,
+    "max_payload": 1480,
+    "date": "2026-10-26"
+  },
+  {
+    "vehicle_name": "Rivian R1T Dual-Motor Max Pack Truck",
+    "slug": "rivian-r1t-dual-motor-max-pack-truck-towing-payload-hitch-calculator",
+    "title": "Rivian R1T Dual-Motor Max Pack Truck Towing Capacity, Payload & Hitch Sizing Calculator (2026)",
+    "description": "Calculate exact safe camper weight (8,800 lbs), 13% tongue weight (1,144 lbs), payload margin (1,764 lbs), and Weight Distribution Hitch size for the Rivian R1T Dual-Motor Max Pack Truck.",
+    "max_tow": 11000,
+    "max_payload": 1764,
+    "date": "2026-10-26"
+  },
+  {
+    "vehicle_name": "Ford Maverick 2.0L EcoBoost AWD 4K Tow",
+    "slug": "ford-maverick-20l-ecoboost-awd-4k-tow-towing-payload-hitch-calculator",
+    "title": "Ford Maverick 2.0L EcoBoost AWD 4K Tow Towing Capacity, Payload & Hitch Sizing Calculator (2026)",
+    "description": "Calculate exact safe camper weight (3,200 lbs), 13% tongue weight (416 lbs), payload margin (1,500 lbs), and Weight Distribution Hitch size for the Ford Maverick 2.0L EcoBoost AWD 4K Tow.",
+    "max_tow": 4000,
+    "max_payload": 1500,
+    "date": "2026-10-26"
   }
 ]
