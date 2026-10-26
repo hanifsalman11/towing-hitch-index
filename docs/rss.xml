@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/towing-hitch-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Travel Trailer Towing Capacity, Payload & Hitch Sizing Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/towing-hitch-index/travel-trailer-towing-payload-hitch-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/towing-hitch-index/travel-trailer-towing-payload-hitch-calculator.html</guid>
+      <description>Calculate exact safe camper weight (6,800 lbs), 13% tongue weight (884 lbs), payload margin (1,750 lbs), and Weight Distribution Hitch size for the Travel Trailer.</description>
+    </item>
+    <item>
+      <title>Camper Towing Capacity, Payload & Hitch Sizing Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/towing-hitch-index/camper-towing-payload-hitch-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/towing-hitch-index/camper-towing-payload-hitch-calculator.html</guid>
+      <description>Calculate exact safe camper weight (6,800 lbs), 13% tongue weight (884 lbs), payload margin (1,750 lbs), and Weight Distribution Hitch size for the Camper.</description>
+    </item>
+    <item>
+      <title>By Reg Towing Capacity, Payload & Hitch Sizing Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/towing-hitch-index/by-reg-towing-payload-hitch-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/towing-hitch-index/by-reg-towing-payload-hitch-calculator.html</guid>
+      <description>Calculate exact safe camper weight (6,800 lbs), 13% tongue weight (884 lbs), payload margin (1,750 lbs), and Weight Distribution Hitch size for the By Reg.</description>
+    </item>
+    <item>
       <title>Chart  Suvs Towing Capacity, Payload & Hitch Sizing Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/towing-hitch-index/chart-suvs-towing-payload-hitch-calculator.html</link>
       <guid>https://hanifsalman11.github.io/towing-hitch-index/chart-suvs-towing-payload-hitch-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/towing-hitch-index/toyota-tundra-34l-i-force-twin-turbo-v6-towing-payload-hitch-calculator.html</link>
       <guid>https://hanifsalman11.github.io/towing-hitch-index/toyota-tundra-34l-i-force-twin-turbo-v6-towing-payload-hitch-calculator.html</guid>
       <description>Calculate exact safe camper weight (9,600 lbs), 13% tongue weight (1,248 lbs), payload margin (1,885 lbs), and Weight Distribution Hitch size for the Toyota Tundra 3.4L i-FORCE Twin-Turbo V6.</description>
-    </item>
-    <item>
-      <title>Ram 1500 5.7L HEMI V8 eTorque Crew Cab Towing Capacity, Payload & Hitch Sizing Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/towing-hitch-index/ram-1500-57l-hemi-v8-etorque-crew-cab-towing-payload-hitch-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/towing-hitch-index/ram-1500-57l-hemi-v8-etorque-crew-cab-towing-payload-hitch-calculator.html</guid>
-      <description>Calculate exact safe camper weight (10,200 lbs), 13% tongue weight (1,326 lbs), payload margin (1,890 lbs), and Weight Distribution Hitch size for the Ram 1500 5.7L HEMI V8 eTorque Crew Cab.</description>
-    </item>
-    <item>
-      <title>Ram 1500 3.0L Hurricane High-Output I6 Towing Capacity, Payload & Hitch Sizing Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/towing-hitch-index/ram-1500-30l-hurricane-high-output-i6-towing-payload-hitch-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/towing-hitch-index/ram-1500-30l-hurricane-high-output-i6-towing-payload-hitch-calculator.html</guid>
-      <description>Calculate exact safe camper weight (9,200 lbs), 13% tongue weight (1,196 lbs), payload margin (1,980 lbs), and Weight Distribution Hitch size for the Ram 1500 3.0L Hurricane High-Output I6.</description>
-    </item>
-    <item>
-      <title>Chevrolet Silverado 1500 3.0L Duramax Turbo-Diesel Towing Capacity, Payload & Hitch Sizing Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/towing-hitch-index/chevrolet-silverado-1500-30l-duramax-turbo-diesel-towing-payload-hitch-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/towing-hitch-index/chevrolet-silverado-1500-30l-duramax-turbo-diesel-towing-payload-hitch-calculator.html</guid>
-      <description>Calculate exact safe camper weight (10,600 lbs), 13% tongue weight (1,378 lbs), payload margin (1,970 lbs), and Weight Distribution Hitch size for the Chevrolet Silverado 1500 3.0L Duramax Turbo-Diesel.</description>
     </item>
   </channel>
 </rss>
