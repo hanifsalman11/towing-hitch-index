@@ -376,5 +376,32 @@
     "max_tow": 8500,
     "max_payload": 1750,
     "date": "2026-10-27"
+  },
+  {
+    "vehicle_name": "Of Jeep Wrangler",
+    "slug": "of-jeep-wrangler-towing-payload-hitch-calculator",
+    "title": "Of Jeep Wrangler Towing Capacity, Payload & Hitch Sizing Calculator (2026)",
+    "description": "Calculate exact safe camper weight (6,800 lbs), 13% tongue weight (884 lbs), payload margin (1,750 lbs), and Weight Distribution Hitch size for the Of Jeep Wrangler.",
+    "max_tow": 8500,
+    "max_payload": 1750,
+    "date": "2026-10-27"
+  },
+  {
+    "vehicle_name": "Of F150",
+    "slug": "of-f150-towing-payload-hitch-calculator",
+    "title": "Of F150 Towing Capacity, Payload & Hitch Sizing Calculator (2026)",
+    "description": "Calculate exact safe camper weight (6,800 lbs), 13% tongue weight (884 lbs), payload margin (1,750 lbs), and Weight Distribution Hitch size for the Of F150.",
+    "max_tow": 8500,
+    "max_payload": 1750,
+    "date": "2026-10-27"
+  },
+  {
+    "vehicle_name": "Of Ram 1500",
+    "slug": "of-ram-1500-towing-payload-hitch-calculator",
+    "title": "Of Ram 1500 Towing Capacity, Payload & Hitch Sizing Calculator (2026)",
+    "description": "Calculate exact safe camper weight (6,800 lbs), 13% tongue weight (884 lbs), payload margin (1,750 lbs), and Weight Distribution Hitch size for the Of Ram 1500.",
+    "max_tow": 8500,
+    "max_payload": 1750,
+    "date": "2026-10-27"
   }
 ]
