@@ -349,5 +349,32 @@
     "max_tow": 8500,
     "max_payload": 1750,
     "date": "2026-10-27"
+  },
+  {
+    "vehicle_name": "Dump Trailer",
+    "slug": "dump-trailer-towing-payload-hitch-calculator",
+    "title": "Dump Trailer Towing Capacity, Payload & Hitch Sizing Calculator (2026)",
+    "description": "Calculate exact safe camper weight (6,800 lbs), 13% tongue weight (884 lbs), payload margin (1,750 lbs), and Weight Distribution Hitch size for the Dump Trailer.",
+    "max_tow": 8500,
+    "max_payload": 1750,
+    "date": "2026-10-27"
+  },
+  {
+    "vehicle_name": "Lifted Truck",
+    "slug": "lifted-truck-towing-payload-hitch-calculator",
+    "title": "Lifted Truck Towing Capacity, Payload & Hitch Sizing Calculator (2026)",
+    "description": "Calculate exact safe camper weight (6,800 lbs), 13% tongue weight (884 lbs), payload margin (1,750 lbs), and Weight Distribution Hitch size for the Lifted Truck.",
+    "max_tow": 8500,
+    "max_payload": 1750,
+    "date": "2026-10-27"
+  },
+  {
+    "vehicle_name": "Horse Trailer",
+    "slug": "horse-trailer-towing-payload-hitch-calculator",
+    "title": "Horse Trailer Towing Capacity, Payload & Hitch Sizing Calculator (2026)",
+    "description": "Calculate exact safe camper weight (6,800 lbs), 13% tongue weight (884 lbs), payload margin (1,750 lbs), and Weight Distribution Hitch size for the Horse Trailer.",
+    "max_tow": 8500,
+    "max_payload": 1750,
+    "date": "2026-10-27"
   }
 ]

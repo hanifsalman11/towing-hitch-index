@@ -240,4 +240,22 @@
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/towing-hitch-index/dump-trailer-towing-payload-hitch-calculator.html</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/towing-hitch-index/lifted-truck-towing-payload-hitch-calculator.html</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/towing-hitch-index/horse-trailer-towing-payload-hitch-calculator.html</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
 </urlset>
