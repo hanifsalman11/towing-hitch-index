@@ -322,5 +322,32 @@
     "max_tow": 8500,
     "max_payload": 1750,
     "date": "2026-10-26"
+  },
+  {
+    "vehicle_name": "Boat Trailer",
+    "slug": "boat-trailer-towing-payload-hitch-calculator",
+    "title": "Boat Trailer Towing Capacity, Payload & Hitch Sizing Calculator (2026)",
+    "description": "Calculate exact safe camper weight (6,800 lbs), 13% tongue weight (884 lbs), payload margin (1,750 lbs), and Weight Distribution Hitch size for the Boat Trailer.",
+    "max_tow": 8500,
+    "max_payload": 1750,
+    "date": "2026-10-27"
+  },
+  {
+    "vehicle_name": "Sale Near Me",
+    "slug": "sale-near-me-towing-payload-hitch-calculator",
+    "title": "Sale Near Me Towing Capacity, Payload & Hitch Sizing Calculator (2026)",
+    "description": "Calculate exact safe camper weight (6,800 lbs), 13% tongue weight (884 lbs), payload margin (1,750 lbs), and Weight Distribution Hitch size for the Sale Near Me.",
+    "max_tow": 8500,
+    "max_payload": 1750,
+    "date": "2026-10-27"
+  },
+  {
+    "vehicle_name": "Trailer",
+    "slug": "trailer-towing-payload-hitch-calculator",
+    "title": "Trailer Towing Capacity, Payload & Hitch Sizing Calculator (2026)",
+    "description": "Calculate exact safe camper weight (6,800 lbs), 13% tongue weight (884 lbs), payload margin (1,750 lbs), and Weight Distribution Hitch size for the Trailer.",
+    "max_tow": 8500,
+    "max_payload": 1750,
+    "date": "2026-10-27"
   }
 ]
