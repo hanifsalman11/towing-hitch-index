@@ -403,5 +403,32 @@
     "max_tow": 8500,
     "max_payload": 1750,
     "date": "2026-10-27"
+  },
+  {
+    "vehicle_name": "What Is The Maximum",
+    "slug": "what-is-the-maximum-towing-payload-hitch-calculator",
+    "title": "What Is The Maximum Towing Capacity, Payload & Hitch Sizing Calculator (2026)",
+    "description": "Calculate exact safe camper weight (6,800 lbs), 13% tongue weight (884 lbs), payload margin (1,750 lbs), and Weight Distribution Hitch size for the What Is The Maximum.",
+    "max_tow": 8500,
+    "max_payload": 1750,
+    "date": "2026-10-27"
+  },
+  {
+    "vehicle_name": "Can You Have Too Much",
+    "slug": "can-you-have-too-much-towing-payload-hitch-calculator",
+    "title": "Can You Have Too Much Towing Capacity, Payload & Hitch Sizing Calculator (2026)",
+    "description": "Calculate exact safe camper weight (6,800 lbs), 13% tongue weight (884 lbs), payload margin (1,750 lbs), and Weight Distribution Hitch size for the Can You Have Too Much.",
+    "max_tow": 8500,
+    "max_payload": 1750,
+    "date": "2026-10-27"
+  },
+  {
+    "vehicle_name": "What Happens If You Have Too Much",
+    "slug": "what-happens-if-you-have-too-much-towing-payload-hitch-calculator",
+    "title": "What Happens If You Have Too Much Towing Capacity, Payload & Hitch Sizing Calculator (2026)",
+    "description": "Calculate exact safe camper weight (6,800 lbs), 13% tongue weight (884 lbs), payload margin (1,750 lbs), and Weight Distribution Hitch size for the What Happens If You Have Too Much.",
+    "max_tow": 8500,
+    "max_payload": 1750,
+    "date": "2026-10-27"
   }
 ]
