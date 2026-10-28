@@ -457,5 +457,32 @@
     "max_tow": 8500,
     "max_payload": 1750,
     "date": "2026-10-28"
+  },
+  {
+    "vehicle_name": "Can A Bronco Tow A Camper",
+    "slug": "can-a-bronco-tow-a-camper-towing-payload-hitch-calculator",
+    "title": "Can A Bronco Tow A Camper Towing Capacity, Payload & Hitch Sizing Calculator (2026)",
+    "description": "Calculate exact safe camper weight (6,800 lbs), 13% tongue weight (884 lbs), payload margin (1,750 lbs), and Weight Distribution Hitch size for the Can A Bronco Tow A Camper.",
+    "max_tow": 8500,
+    "max_payload": 1750,
+    "date": "2026-10-28"
+  },
+  {
+    "vehicle_name": "Can A Rav4 Tow A Camper",
+    "slug": "can-a-rav4-tow-a-camper-towing-payload-hitch-calculator",
+    "title": "Can A Rav4 Tow A Camper Towing Capacity, Payload & Hitch Sizing Calculator (2026)",
+    "description": "Calculate exact safe camper weight (6,800 lbs), 13% tongue weight (884 lbs), payload margin (1,750 lbs), and Weight Distribution Hitch size for the Can A Rav4 Tow A Camper.",
+    "max_tow": 8500,
+    "max_payload": 1750,
+    "date": "2026-10-28"
+  },
+  {
+    "vehicle_name": "Can A Uhaul Tow A Camper",
+    "slug": "can-a-uhaul-tow-a-camper-towing-payload-hitch-calculator",
+    "title": "Can A Uhaul Tow A Camper Towing Capacity, Payload & Hitch Sizing Calculator (2026)",
+    "description": "Calculate exact safe camper weight (6,800 lbs), 13% tongue weight (884 lbs), payload margin (1,750 lbs), and Weight Distribution Hitch size for the Can A Uhaul Tow A Camper.",
+    "max_tow": 8500,
+    "max_payload": 1750,
+    "date": "2026-10-28"
   }
 ]
