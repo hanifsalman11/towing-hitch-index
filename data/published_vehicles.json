@@ -430,5 +430,32 @@
     "max_tow": 8500,
     "max_payload": 1750,
     "date": "2026-10-27"
+  },
+  {
+    "vehicle_name": "Can You Exceed",
+    "slug": "can-you-exceed-towing-payload-hitch-calculator",
+    "title": "Can You Exceed Towing Capacity, Payload & Hitch Sizing Calculator (2026)",
+    "description": "Calculate exact safe camper weight (6,800 lbs), 13% tongue weight (884 lbs), payload margin (1,750 lbs), and Weight Distribution Hitch size for the Can You Exceed.",
+    "max_tow": 8500,
+    "max_payload": 1750,
+    "date": "2026-10-28"
+  },
+  {
+    "vehicle_name": "Can A Tow A Trailer",
+    "slug": "can-a-tow-a-trailer-towing-payload-hitch-calculator",
+    "title": "Can A Tow A Trailer Towing Capacity, Payload & Hitch Sizing Calculator (2026)",
+    "description": "Calculate exact safe camper weight (6,800 lbs), 13% tongue weight (884 lbs), payload margin (1,750 lbs), and Weight Distribution Hitch size for the Can A Tow A Trailer.",
+    "max_tow": 8500,
+    "max_payload": 1750,
+    "date": "2026-10-28"
+  },
+  {
+    "vehicle_name": "Can A 4Runner Tow A Camper",
+    "slug": "can-a-4runner-tow-a-camper-towing-payload-hitch-calculator",
+    "title": "Can A 4Runner Tow A Camper Towing Capacity, Payload & Hitch Sizing Calculator (2026)",
+    "description": "Calculate exact safe camper weight (6,800 lbs), 13% tongue weight (884 lbs), payload margin (1,750 lbs), and Weight Distribution Hitch size for the Can A 4Runner Tow A Camper.",
+    "max_tow": 8500,
+    "max_payload": 1750,
+    "date": "2026-10-28"
   }
 ]
