@@ -484,5 +484,32 @@
     "max_tow": 8500,
     "max_payload": 1750,
     "date": "2026-10-28"
+  },
+  {
+    "vehicle_name": "Can A Jeep Tow A Camper",
+    "slug": "can-a-jeep-tow-a-camper-towing-payload-hitch-calculator",
+    "title": "Can A Jeep Tow A Camper Towing Capacity, Payload & Hitch Sizing Calculator (2026)",
+    "description": "Calculate exact safe camper weight (6,800 lbs), 13% tongue weight (884 lbs), payload margin (1,750 lbs), and Weight Distribution Hitch size for the Can A Jeep Tow A Camper.",
+    "max_tow": 8500,
+    "max_payload": 1750,
+    "date": "2026-10-28"
+  },
+  {
+    "vehicle_name": "Can A Tacoma Tow A Camper",
+    "slug": "can-a-tacoma-tow-a-camper-towing-payload-hitch-calculator",
+    "title": "Can A Tacoma Tow A Camper Towing Capacity, Payload & Hitch Sizing Calculator (2026)",
+    "description": "Calculate exact safe camper weight (6,800 lbs), 13% tongue weight (884 lbs), payload margin (1,750 lbs), and Weight Distribution Hitch size for the Can A Tacoma Tow A Camper.",
+    "max_tow": 8500,
+    "max_payload": 1750,
+    "date": "2026-10-28"
+  },
+  {
+    "vehicle_name": "Can A Subaru Tow A Camper",
+    "slug": "can-a-subaru-tow-a-camper-towing-payload-hitch-calculator",
+    "title": "Can A Subaru Tow A Camper Towing Capacity, Payload & Hitch Sizing Calculator (2026)",
+    "description": "Calculate exact safe camper weight (6,800 lbs), 13% tongue weight (884 lbs), payload margin (1,750 lbs), and Weight Distribution Hitch size for the Can A Subaru Tow A Camper.",
+    "max_tow": 8500,
+    "max_payload": 1750,
+    "date": "2026-10-28"
   }
 ]
