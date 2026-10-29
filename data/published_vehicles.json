@@ -511,5 +511,23 @@
     "max_tow": 8500,
     "max_payload": 1750,
     "date": "2026-10-28"
+  },
+  {
+    "vehicle_name": "Can A Forester Tow A Camper",
+    "slug": "can-a-forester-tow-a-camper-towing-payload-hitch-calculator",
+    "title": "Can A Forester Tow A Camper Towing Capacity, Payload & Hitch Sizing Calculator (2026)",
+    "description": "Calculate exact safe camper weight (6,800 lbs), 13% tongue weight (884 lbs), payload margin (1,750 lbs), and Weight Distribution Hitch size for the Can A Forester Tow A Camper.",
+    "max_tow": 8500,
+    "max_payload": 1750,
+    "date": "2026-10-29"
+  },
+  {
+    "vehicle_name": "Can A Telluride Tow A Camper",
+    "slug": "can-a-telluride-tow-a-camper-towing-payload-hitch-calculator",
+    "title": "Can A Telluride Tow A Camper Towing Capacity, Payload & Hitch Sizing Calculator (2026)",
+    "description": "Calculate exact safe camper weight (6,800 lbs), 13% tongue weight (884 lbs), payload margin (1,750 lbs), and Weight Distribution Hitch size for the Can A Telluride Tow A Camper.",
+    "max_tow": 8500,
+    "max_payload": 1750,
+    "date": "2026-10-29"
   }
 ]
