@@ -7,6 +7,12 @@
     <atom:link href="https://hanifsalman11.github.io/towing-hitch-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>10000 Towing Capacity, Payload & Hitch Sizing Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/towing-hitch-index/10000-towing-payload-hitch-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/towing-hitch-index/10000-towing-payload-hitch-calculator.html</guid>
+      <description>Calculate exact safe camper weight (6,800 lbs), 13% tongue weight (884 lbs), payload margin (1,750 lbs), and Weight Distribution Hitch size for the 10000.</description>
+    </item>
+    <item>
       <title>Can A Telluride Tow A Camper Towing Capacity, Payload & Hitch Sizing Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/towing-hitch-index/can-a-telluride-tow-a-camper-towing-payload-hitch-calculator.html</link>
       <guid>https://hanifsalman11.github.io/towing-hitch-index/can-a-telluride-tow-a-camper-towing-payload-hitch-calculator.html</guid>
@@ -179,12 +185,6 @@
       <link>https://hanifsalman11.github.io/towing-hitch-index/by-vin-towing-payload-hitch-calculator.html</link>
       <guid>https://hanifsalman11.github.io/towing-hitch-index/by-vin-towing-payload-hitch-calculator.html</guid>
       <description>Calculate exact safe camper weight (6,800 lbs), 13% tongue weight (884 lbs), payload margin (1,750 lbs), and Weight Distribution Hitch size for the By Vin.</description>
-    </item>
-    <item>
-      <title>Ford Maverick 2.0L EcoBoost AWD 4K Tow Towing Capacity, Payload & Hitch Sizing Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/towing-hitch-index/ford-maverick-20l-ecoboost-awd-4k-tow-towing-payload-hitch-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/towing-hitch-index/ford-maverick-20l-ecoboost-awd-4k-tow-towing-payload-hitch-calculator.html</guid>
-      <description>Calculate exact safe camper weight (3,200 lbs), 13% tongue weight (416 lbs), payload margin (1,500 lbs), and Weight Distribution Hitch size for the Ford Maverick 2.0L EcoBoost AWD 4K Tow.</description>
     </item>
   </channel>
 </rss>

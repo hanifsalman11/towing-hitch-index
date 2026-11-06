@@ -529,5 +529,14 @@
     "max_tow": 8500,
     "max_payload": 1750,
     "date": "2026-10-29"
+  },
+  {
+    "vehicle_name": "10000",
+    "slug": "10000-towing-payload-hitch-calculator",
+    "title": "10000 Towing Capacity, Payload & Hitch Sizing Calculator (2026)",
+    "description": "Calculate exact safe camper weight (6,800 lbs), 13% tongue weight (884 lbs), payload margin (1,750 lbs), and Weight Distribution Hitch size for the 10000.",
+    "max_tow": 8500,
+    "max_payload": 1750,
+    "date": "2026-11-06"
   }
 ]
